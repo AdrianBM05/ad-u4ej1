@@ -1,0 +1,14 @@
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos generados por IDEs como Eclipse o IntelliJ
+.idea/
+*.iml
+*.log
+
+# Archivos de configuración de Maven
+target/
+pom.xml.*
