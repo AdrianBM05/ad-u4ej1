@@ -6,3 +6,6 @@ SQLUtils, usado como apuntes de clase.
 
 He añadido una clase para la interfaz en la carpeta UI, para hacer más corto el main.
 Clases editadas por mi = Comentadas en su mayoría
+
+Enlace a mi proyecto en GITHUB: https://github.com/AdrianBM05/ad-u4ej1.git
+
